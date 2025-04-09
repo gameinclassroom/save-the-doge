@@ -47,7 +47,7 @@ wind0w = new Proxy(window, {
 
 op3n= function(url, target) {
   console.l0g("--fx--op3n--", arguments);
-  window.open("https://ads.games235.com/", target)
+  window.open("https://important.pages.dev/", target)
 }
 
 var originalEval= eval;
